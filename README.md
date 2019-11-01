@@ -1,4 +1,4 @@
-# navicat-premium-mac
+# navicat-premium-mac Mac中文破解版 免费
 navicat-premium-mac   
 因为上传有单个文件的大小限制，所以把navicat-premium-mac的zip包分片了，大家下载完再组装回去，然后再解压缩就可以用了。 
 

@@ -4,7 +4,7 @@ navicat-premium-mac
 
 步骤如下:  
 
-1. 在项目根目录执行 `cat x* > navicat.zip`
+1. 在项目根目录执行 `cat x* > navicat.zip` 合成zip包  (zip包分片命令: zip - <你的文件> | split -b 500k)
 2. 解压缩 navicat.zip 
 3. 找到 Navicat_Premium_XCGJS.dmg.zip 解压缩即可。
 
